@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help with **JS**
 
-- 💬 Ask me about **JS**
-
 - 📫 How to reach me **mehmedayt8@gmail.com**
+
+- 📄 Know about my experiences [https://mehmedayt.github.io/resume/](https://mehmedayt.github.io/resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
