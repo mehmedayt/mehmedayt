@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmedayt&label=Profile%20views&color=0e75b6&style=flat" alt="mehmedayt" /> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 🤝 I’m looking for help with **JS**
+- 🤝 I’m looking for help with **JS** **React** **Mongoose**
 
 - 📫 How to reach me **mehmedayt8@gmail.com**
 
